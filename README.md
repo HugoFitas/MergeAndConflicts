@@ -1,4 +1,6 @@
-# MergeAndConflicts
+# MergeAndConflicts - REMOTE
+
+
 
 This is a sentence.
 This is another sentence.
